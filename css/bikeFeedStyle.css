@@ -2,6 +2,13 @@ body {
   margin: 0;
   font-family: Nunito Sans;
 }
+h1 {
+  color: #1570b0;
+  font-size: 2rem;
+  font-weight: bold;
+  line-height: 110%;
+  margin: 1.14rem 0 0.912rem 0;
+}
 h3 {
   text-align: center;
   font-size: 30px;
